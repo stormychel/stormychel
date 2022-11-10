@@ -1,4 +1,4 @@
-- 👋 Hi, I’m: String = "@stormychel"
+- 👋 Hi, I’m: String = "@stormychel" // MARK: A Freelance Apple Developer
 - 👀 I’m interested in: [String] = ["Everything Apple and Swift", "Motorcycles", "Dogs", "Camping"]
 - 🌱 I’m currently learning: String = "How to rebuild a KTM engine myself."
 - 💞️ I’m looking to collaborate on: String?
