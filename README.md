@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: String = "@stormychel" // MARK: A Freelance Apple Developer
-- 👀 I’m interested in: [String] = ["Everything Apple and Swift", "Simracing", "Dogs", "Camping"]
+- 👀 I’m interested in: [String] = ["Everything Apple and Swift", "Simracing", "Dogs", "Camping", "Whisky"]
 - 🌱 I’m ~~currently~~ constantly learning: String = "All the new stuff Apple throws at us developers each WWDC."
 - 💞️ I’m looking to collaborate on: String?
 - 📫 How to reach me: URL = URL(string: "https://www.michelstorms.com")
