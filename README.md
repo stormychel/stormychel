@@ -1,8 +1,22 @@
-- 👋 Hi, I’m: String = "@stormychel" // MARK: A Freelance Apple Developer
-- 👀 I’m interested in: [String] = ["Everything Apple and Swift", "Simracing", "Dogs", "Camping", "Whisky"]
-- 🌱 I’m ~~currently~~ constantly learning: String = "All the new stuff Apple throws at us developers each WWDC."
-- 💞️ I’m looking to collaborate on: String?
-- 📫 How to reach me: URL = URL(string: "https://www.michelstorms.com")
+# 👋 Hi, I'm Michel Storms (@stormychel)  
+### A Freelance Apple Developer  
+
+- **👀 Interests:**  
+  `["Everything Apple & Swift", "Simracing", "Dogs", "Camping", "Whisky"]`  
+
+- **🌱 Constantly learning:**  
+  `"All the new tools and frameworks Apple unveils at WWDC."`  
+
+- **💞️ Looking to collaborate on:**  
+  Currently open to discussing exciting projects! Let's connect.  
+
+- **📫 Reach me at:**  
+  [michelstorms.com](https://www.michelstorms.com)  
+
+---
+
+✨ _This profile's `README.md` makes my GitHub a little more special._ ✨  
+Click the preview link above to see it in action!  
 
 <!---
 stormychel/stormychel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
