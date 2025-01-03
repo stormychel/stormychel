@@ -17,8 +17,3 @@
 
 ✨ _This profile's `README.md` makes my GitHub a little more special._ ✨  
 Click the preview link above to see it in action!  
-
-<!---
-stormychel/stormychel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
