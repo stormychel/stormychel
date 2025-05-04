@@ -13,6 +13,8 @@
 - **📫 Reach me at:**  
   [michelstorms.com](https://www.michelstorms.com)  
 
+- **☎️ Book a meeting at:**  
+[Calendly](https://calendly.com/michelstorms/online-30-minutes)
 ---
 
 ✨ _This profile's `README.md` makes my GitHub a little more special._ ✨  
