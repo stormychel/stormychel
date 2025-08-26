@@ -2,7 +2,7 @@
 ### A Freelance Apple Developer  
 
 - **👀 Interests:**  
-  `["Everything Apple & Swift", "Simracing", "Dogs", "Camping", "Whisky"]`  
+  `["Everything Apple & Swift", "Mindfulness", "Dogs", "Camping", "Motorcycles"]`  
 
 - **🌱 Constantly learning:**  
   `"All the new tools and frameworks Apple unveils at WWDC."`  
