@@ -2,7 +2,7 @@
 ### A Freelance Apple Developer Exploring the Quantum Frontier  
 
 - **👀 Interests:**  
-  `["Everything Apple & Swift", "Quantum Computing & Physics","Mindfulness", "Dogs", "Camping", "Dirtbikes"]`  
+  `["Everything Apple & Swift", "Quantum Computing & Physics", "Mindfulness", "Dogs", "Camping", "Dirtbikes"]`  
 
 - **🌱 Constantly learning:**  
   `"From the latest Apple frameworks to the early blueprints of Quantum Computing — preparing for the next shift in how we think about software."`  
