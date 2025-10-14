@@ -11,7 +11,7 @@
   Projects that bridge **macOS/iOS development**, **AI**, **IBM Cloud**, or **Quantum Experimentation** — from intuitive interfaces to real-time visualizations of complex systems.  
 
 - **⚛️ Current vision:**  
-  Building toward a future where **Swift meets Quantum**, leveraging **IBM Cloud** and modern AI tools to craft interfaces that make advanced computation Tangible and human-friendly.  
+  Building toward a future where **Swift meets Quantum**, leveraging **IBM Cloud** and modern AI tools to craft interfaces that make advanced computation tangible and human-friendly.  
 
 - **📫 Reach me at:**  
   [michelstorms.com](https://www.michelstorms.com)  
