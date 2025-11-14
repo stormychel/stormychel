@@ -17,7 +17,7 @@
   [michelstorms.com](https://www.michelstorms.com)  
 
 - **☎️ Book a meeting at:**  
-  [Calendly](https://fantastical.app/michelstorms/online-30-minutes)
+  [Fantastical](https://fantastical.app/michelstorms/online-30-minutes)
 
 ---
 
