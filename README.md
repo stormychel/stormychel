@@ -1,34 +1,31 @@
-Michel Storms (@stormychel)
+# Michel Storms
 
-## Senior Apple Software Engineer & Tech/Dev Lead — 20+ Years Experience
+**Senior iOS & macOS developer · Swift, SwiftUI, CarPlay, watchOS · Belgium**
 
-### Professional Summary
+I build native iOS and macOS apps in Swift and SwiftUI, end to end: architecture, implementation, App Store release. Programming since 1998, independent since 2021.
 
-Senior Apple engineer and technical lead focused on macOS and cross-platform application development. I specialize in stabilizing legacy, incomplete, or poorly structured projects by re-establishing clean architecture, reliable pipelines, and maintainable codebases.
+### What I do
 
-Strong technical leadership across Swift, Objective-C, C++, C#, JavaScript, and Python.
+New products from a blank file, and inherited codebases that need stabilising. iOS, iPadOS, macOS, watchOS and CarPlay, in Swift, SwiftUI, UIKit, AppKit and Objective-C, with C++, Kotlin and Python where a project needs them. Technical lead when the project needs direction, not just hands.
 
-### Areas of Expertise
-	•	macOS/iOS application architecture
-	•	Cross-platform development (Apple, Windows, Web)
-	•	AI/ML integrations and real-time audio processing
-	•	Accessibility, system-level tooling, and automation
-	•	Project rescue, refactoring, and technical strategy
+I take the parts most teams avoid: offline-first apps, system extensions, Bluetooth hardware, AI and machine-learning features (speech-to-text, LLMs, on-device models on Apple silicon), macOS accessibility and automation, signing and notarization.
 
-### Professional Development
+### Client work
 
-Actively expanding skill sets in modern Apple frameworks, advanced audio/ML systems, and foundational quantum computing concepts to stay aligned with emerging directions in computation.
+- **typegear.ai** - sole developer for three years on a Mac App Store AI writing app. Paywall, global hotkeys, about 40 languages.
+- **VoiceHotKey** - macOS dictation, shipped through direct download and the Mac App Store from one codebase.
+- **Fraudster** - iOS anti-scam app with a VPN tunnel and an SMS filter extension.
+- **A desktop assistant for macOS and Windows** - live transcription, echo cancellation, screen reading, a browser-extension bridge.
 
-### Collaboration Interests
+### My own apps
 
-Available for projects requiring senior engineering or tech/dev leadership, particularly where architectural clarity, system stabilization, or high-performance implementation is needed.
+- **TrackHound** - offline navigation for iPhone and CarPlay, on its own on-device routing engine, with worldwide offline maps. On the App Store in 20 languages.
+- **PawMode** - a spare iPhone watches a pet left in a parked car. Apple granted it the Critical Alerts entitlement.
+- **HoverCalc** - a Mac menu-bar calculator that floats over fullscreen apps.
 
 ### Contact
 
-Website: https://www.michelstorms.com
+Tell me in a few lines what you're building and what's blocking it. I'll tell you honestly whether I'm the right fit.
 
-Schedule a meeting: https://fantastical.app/michelstorms/online-30-minutes
-
-⸻
-
-**High-quality engineering. Strong leadership. Continuous improvement.**
+- Website: https://www.michelstorms.com
+- Schedule a meeting: https://fantastical.app/michelstorms/online-30-minutes
